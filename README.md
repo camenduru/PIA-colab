@@ -18,7 +18,7 @@ https://arxiv.org/abs/2312.13964
 https://pi-animator.github.io/
 
 ### 🖼 Output
-
+![Screenshot 2023-12-22 183736](https://github.com/camenduru/PIA-colab/assets/54370274/442e5cf9-8f90-4bd2-8442-d0855daf1d87)
 
 ### 🏢 Sponsor
 https://modelslab.com
